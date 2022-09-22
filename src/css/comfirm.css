@@ -1,0 +1,28 @@
+.box-comfirm{
+    padding: 10px;
+}
+
+.box-comfirm .header-comfirm{
+    text-align: center;
+}
+
+.box-comfirm .footer-comfirm{
+    display: flex;
+    justify-content: space-around;
+}
+
+.box-comfirm .footer-comfirm .btn-y{
+    padding: 5px 20px; 
+    background-color: #00aec9;
+    color: white;
+    outline: none;
+    border: 1px solid #00aec9;
+}
+
+.box-comfirm .footer-comfirm .btn-n{
+    padding: 5px 20px; 
+    background-color: gray;
+    color: white;
+    outline: none;
+    border: 1px solid gray;
+}
